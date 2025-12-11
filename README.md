@@ -20,15 +20,15 @@ const pranavRao = {
     role: "Full-Stack Developer & ML Engineer",
     location: "India 🇮🇳",
     education: "Computer Science Engineering",
-    currentFocus: ["AI/ML Integration", "Fintech Platforms","HealthTech Platforms"],
+    currentFocus: ["AI/ML Integration", "Fintech Platforms", "HealthTech Platforms"],
     mindset: "Building solutions that matter 💡",
     
     ventures: {
         NutriGo: "Smart packaged food scanning & health analysis",
-        Mentora: "Smart App to transform student skills to projects"
+        Mentora: "Smart App to transform student skills to projects",
         Stock_Analysis_Pro: "AI-powered stock analysis platform",
         KrushiBandhu: "Agricultural support ecosystem",
-        DermiScan: "AI-powered skin cancer detection application",
+        DermiScan: "AI-powered skin cancer detection application"
     },
     
     techStack: {
@@ -40,7 +40,7 @@ const pranavRao = {
     },
     
     currentlyLearning: ["Advanced ML Optimization", "Voice AI", "App Development"],
-    askMeAbout: ["React", "ML Models", "API Integration", "Startup Strategy","Deployment"],
+    askMeAbout: ["React", "ML Models", "API Integration", "Startup Strategy", "Deployment"],
     funFact: "I debug faster when the pressure is on 🔥"
 };
 ```
@@ -90,10 +90,10 @@ const pranavRao = {
 ## 🎯 Current Focus
 
 - 🤖 **AI/ML Integration**: Voice AI, TTS, Model Optimization, ML Automation, MediaPipe
-- 💰 **Fintech Development**: StockPulse Platform, Real-time Analysis, Trading Algorithms
-- 🌾 **AgriTech Solutions**: KrushiBandhu, TaazaMandi, Farm Technology
-- 🍎 **FinTech Solutions**: DermiScan, CancerDetection
-- 💻 **Full-Stack Projects**: NutriGo, Mentora, SaaS Products
+- 💰 **Fintech Development**: Stock Analysis Pro, Real-time Analysis, Trading Algorithms
+- 🌾 **AgriTech Solutions**: KrushiBandhu, Farm Technology
+- 🩺 **HealthTech Solutions**: DermiScan, NutriGo, Cancer Detection
+- 💻 **Full-Stack Projects**: Mentora, SaaS Products
 
 <br/>
 
@@ -142,7 +142,7 @@ Mentora connects students with industry professionals for personalized mentorshi
 - 🚀 Skill-based project unlocking & completion tracking
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/Mentora-App)
-[![Download](https://img.shields.io/badge/Launching Soon-3DDC84?style=flat-square&logo=android&logoColor=white)]()
+[![Download](https://img.shields.io/badge/Launching_Soon-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
 
 </td>
 </tr>
@@ -157,7 +157,7 @@ Mentora connects students with industry professionals for personalized mentorshi
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-StockPulse combines real-time market data with AI-driven analysis to provide intelligent stock recommendations, portfolio management, and predictive analytics for informed investment decisions.
+Stock Analysis Pro combines real-time market data with AI-driven analysis to provide intelligent stock recommendations, portfolio management, and predictive analytics for informed investment decisions.
 
 - 🤖 AI-powered stock predictions & analysis
 - 📊 Real-time market data visualization
@@ -170,12 +170,12 @@ StockPulse combines real-time market data with AI-driven analysis to provide int
 </td>
 <td width="50%" valign="top">
 
-🩺 DermiScan AI
-AI-Powered Skin Cancer Detection System
+### 🩺 DermiScan AI
+**AI-Powered Skin Cancer Detection System**
 
-![Python](https://img.shields.io/badge/Python-3776AB
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 DermiScan AI is an intelligent web-based diagnostic tool that analyzes skin lesion images using deep learning to detect melanoma and provide early cancer risk assessment with instant medical recommendations.
 
@@ -185,7 +185,8 @@ DermiScan AI is an intelligent web-based diagnostic tool that analyzes skin lesi
 - 🏥 Medical recommendations & suggestions
 - ⚡ Real-time prediction results
 
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square-4285F4?style=flat-square&logo=google-chrome&logo
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/DermiScan-AI)
+[![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://dermiscan-ai.streamlit.app)
 
 </td>
 </tr>
@@ -207,7 +208,7 @@ DermiScan AI is an intelligent web-based diagnostic tool that analyzes skin lesi
 
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
 
@@ -221,7 +222,7 @@ DermiScan AI is an intelligent web-based diagnostic tool that analyzes skin lesi
   
   - 💼 Building innovative solutions at the intersection of tech and real-world problems
   - 🌱 Exploring new technologies and frameworks
-  - 💬 Ask me about **React, Next.js, ML, Flutter,Deployment or Startup Strategy**
+  - 💬 Ask me about **React, Next.js, ML, Flutter, Deployment or Startup Strategy**
   - 📫 Reach me at: **pranavraok18@gmail.com**
   - ⚡ Fun fact: **I thrive under pressure and love turning bugs into features!**
   
@@ -230,7 +231,7 @@ DermiScan AI is an intelligent web-based diagnostic tool that analyzes skin lesi
   [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavraok.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rao-k-487532312/)
   [![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavvraok18@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavraok18@gmail.com)
   
 </div>
 
