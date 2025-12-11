@@ -133,7 +133,7 @@ NutriGo empowers users to scan foods, analyze ingredients, and receive AI-driven
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-Mentora connects students with industry professionals for personalized mentorship, AI-powered career roadmaps, and project-based skill development.
+Mentora connects students with industry professionals for personalized mentorship, AI-powered career roadmaps, and project-based skill development.It combines Flutter mobile experience and gamified learning mechanics.
 
 - 🎯 AI-generated personalized career roadmaps
 - 👨‍💼 Professional mentor matching & real-time chat
