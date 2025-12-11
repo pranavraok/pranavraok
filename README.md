@@ -97,103 +97,102 @@ const pranavRao = {
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Flagship Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🥗 NutriGo - Smart Nutrition Analysis Platform
+### 🥗 NutriGo
+**Food Scanner & Health Score App**
 
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-**NutriGo** is an innovative food scanning and health analysis platform that leverages computer vision and machine learning to provide instant nutritional insights. Users can simply scan their food items to receive detailed nutritional breakdowns, personalized health recommendations, and track their dietary habits over time.
+NutriGo empowers users to scan foods, analyze ingredients, and receive AI-driven health scores and warnings. It integrates barcode scanning, Supabase DB, Google Gemini AI, and instant nutrition analytics.
 
-**Key Features:**
-- 📸 Real-time food recognition using ML models
-- 🔍 Comprehensive nutritional analysis
-- 📊 Personalized health insights and recommendations
-- 📈 Diet tracking and progress monitoring
-- 🎯 Custom meal planning based on health goals
+- 📱 Mobile-ready barcode scanning
+- 🍎 AI-calculated health & nutrition scores
+- 📊 Tracking and logging for healthy eating
+- 🔒 Secure backend, robust error handling
+- 💾 Supabase-powered data storage
 
-**Tech Highlights:** Integrated OpenAI APIs for smart recommendations, implemented custom TensorFlow models for food recognition, and built a responsive React frontend with real-time data synchronization.
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/nutrigo)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nutrigo-demo.netlify.app)
 
-[![View Project](https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok/nutrigo)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nutrigo-demo.netlify.app)
+</td>
+<td width="50%" valign="top">
 
----
+### 📈 StockPulse
+**AI-Powered Stock Analysis Platform**
 
-### 📈 StockPulse - AI-Powered Financial Advisor
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+StockPulse combines real-time market data with AI-driven analysis to provide intelligent stock recommendations, portfolio management, and predictive analytics for informed investment decisions.
 
-**StockPulse** is a sophisticated fintech platform that combines real-time market data with AI-driven analysis to provide intelligent stock recommendations and portfolio management. The platform uses advanced machine learning algorithms to analyze market trends, predict stock movements, and offer personalized investment strategies.
-
-**Key Features:**
-- 🤖 AI-powered stock analysis and predictions
+- 🤖 AI-powered stock predictions & analysis
 - 📊 Real-time market data visualization
-- 💼 Portfolio optimization and risk assessment
-- 📈 Technical indicators and trend analysis
-- 🔔 Smart alerts for market opportunities
+- 💼 Portfolio optimization algorithms
+- 📈 Technical indicators & trend analysis
+- 🔔 Smart alerts for opportunities
 
-**Tech Highlights:** Built with Next.js for optimal performance, integrated multiple financial APIs, implemented custom trading algorithms, and deployed ML models for predictive analytics.
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/stockpulse)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://stockpulse-demo.vercel.app)
 
-[![View Project](https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok/stockpulse)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stockpulse-demo.vercel.app)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌾 KrushiBandhu
+**Agricultural Support Ecosystem**
 
-### 🌾 KrushiBandhu - Agricultural Support Ecosystem
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+KrushiBandhu is a comprehensive agricultural platform empowering farmers with real-time crop advisory, weather forecasts, market prices, and expert connections to improve farming practices.
 
-**KrushiBandhu** is a comprehensive agricultural support platform designed to empower farmers with technology. The app provides real-time crop advisory, weather forecasts, market prices, and connects farmers with agricultural experts. It aims to bridge the knowledge gap and improve farming practices through digital innovation.
+- 🌱 Smart crop recommendations
+- 🌤️ Real-time weather forecasts
+- 💰 Market price tracking
+- 👨‍🌾 Expert consultation forums
+- 📚 Educational resources
+- 🛒 Direct marketplace
 
-**Key Features:**
-- 🌱 Smart crop recommendations based on soil and weather
-- 🌤️ Real-time weather forecasts and alerts
-- 💰 Market price tracking and trend analysis
-- 👨‍🌾 Expert consultation and community forums
-- 📚 Educational resources and best practices
-- 🛒 Direct marketplace for selling produce
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/krushibandhu)
+[![Download](https://img.shields.io/badge/Download-3DDC84?style=flat-square&logo=android&logoColor=white)](https://krushibandhu-app.com)
 
-**Tech Highlights:** Cross-platform mobile app built with Flutter, real-time data synchronization with Firebase, multilingual support for regional farmers, and offline functionality for areas with limited connectivity.
+</td>
+<td width="50%" valign="top">
 
-[![View Project](https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok/krushibandhu)
-[![Download App](https://img.shields.io/badge/Download%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://krushibandhu-app.com)
+### 🛒 TaazaMandi
+**Farm-to-Consumer Marketplace**
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🛒 TaazaMandi - Farm to Consumer Marketplace
+TaazaMandi directly connects farmers with consumers, eliminating middlemen and ensuring fair prices. The platform provides fresh, organic produce while supporting local agriculture.
 
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+- 🚜 Direct farmer-to-consumer chain
+- 🥬 Fresh & organic produce
+- 📦 Real-time order tracking
+- 💳 Secure payment integration
+- ⭐ Quality rating system
+- 📱 Mobile-responsive design
 
-**TaazaMandi** is a revolutionary e-commerce platform that directly connects farmers with consumers, eliminating middlemen and ensuring fair prices for both parties. The platform provides fresh, organic produce while supporting local farmers and promoting sustainable agriculture practices.
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/taazamandi)
+[![Demo](https://img.shields.io/badge/Live_Site-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://taazamandi.vercel.app)
 
-**Key Features:**
-- 🚜 Direct farmer-to-consumer supply chain
-- 🥬 Fresh and organic produce marketplace
-- 📦 Real-time order tracking and logistics
-- 💳 Secure payment gateway integration
-- ⭐ Rating and review system for quality assurance
-- 📱 Mobile-responsive design for easy access
-
-**Tech Highlights:** Built with Next.js for SEO optimization and fast performance, implemented robust backend with Node.js, integrated payment gateways, real-time inventory management, and dynamic pricing algorithms.
-
-[![View Project](https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok/taazamandi)
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://taazamandi.vercel.app)
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
