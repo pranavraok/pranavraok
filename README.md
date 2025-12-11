@@ -7,7 +7,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavraok.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rao-k-487532312/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavraok18@gmail.com)
   
 </div>
 
@@ -20,15 +20,15 @@ const pranavRao = {
     role: "Full-Stack Developer & ML Engineer",
     location: "India 🇮🇳",
     education: "Computer Science Engineering",
-    currentFocus: ["AI/ML Integration", "Fintech Platforms", "AgriTech Solutions"],
+    currentFocus: ["AI/ML Integration", "Fintech Platforms","HealthTech Platforms", "AgriTech Solutions"],
     mindset: "Building solutions that matter 💡",
     
     ventures: {
-        NutriGo: "Smart food scanning & health analysis",
+        NutriGo: "Smart packaged food scanning & health analysis",
+        Mentora: "Smart App to transform student skills to projects"
         StockPulse: "AI-powered stock analysis platform",
         KrushiBandhu: "Agricultural support ecosystem",
-        TaazaMandi: "Farm-to-consumer marketplace",
-        RUAS_Events: "Event management system"
+        DermiScan: "AI-powered skin cancer detection application",
     },
     
     techStack: {
@@ -39,8 +39,8 @@ const pranavRao = {
         tools: ["VS Code", "Git", "Figma", "Postman"]
     },
     
-    currentlyLearning: ["Advanced ML Optimization", "Voice AI", "Blockchain"],
-    askMeAbout: ["React", "ML Models", "API Integration", "Startup Strategy"],
+    currentlyLearning: ["Advanced ML Optimization", "Voice AI", "App Development"],
+    askMeAbout: ["React", "ML Models", "API Integration", "Startup Strategy","Deployment"],
     funFact: "I debug faster when the pressure is on 🔥"
 };
 ```
@@ -69,7 +69,6 @@ const pranavRao = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -90,10 +89,10 @@ const pranavRao = {
 
 ## 🎯 Current Focus
 
-- 🤖 **AI/ML Integration**: Voice AI, TTS, Model Optimization, ML Automation
+- 🤖 **AI/ML Integration**: Voice AI, TTS, Model Optimization, ML Automation, MediaPipe
 - 💰 **Fintech Development**: StockPulse Platform, Real-time Analysis, Trading Algorithms
 - 🌾 **AgriTech Solutions**: KrushiBandhu, TaazaMandi, Farm Technology
-- 💻 **Full-Stack Projects**: NutriGo, Event Management, SaaS Products
+- 💻 **Full-Stack Projects**: NutriGo, Mentora, SaaS Products
 
 <br/>
 
@@ -104,7 +103,7 @@ const pranavRao = {
 <td width="50%" valign="top">
 
 ### 🥗 NutriGo
-**Food Scanner & Health Score App**
+** Packaged Food Scanner & Health Score App**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -121,6 +120,29 @@ NutriGo empowers users to scan foods, analyze ingredients, and receive AI-driven
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/nutrigo)
 [![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nutrigo-demo.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Mentora
+** Smart App to transform student skills to projects**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+Mentora connects students with industry professionals for personalized mentorship, AI-powered career roadmaps, and project-based skill development. It combines Flutter mobile experience, Supabase backend, Google Gemini AI, and gamified learning mechanics.
+
+- 🎯 AI-generated personalized career roadmaps
+- 👨‍💼 Professional mentor matching & real-time chat
+- 📄 ATS resume analysis with improvement suggestions
+- 🎮 Gamified XP system with achievements & leaderboards
+- 🚀 Skill-based project unlocking & completion tracking
+- 🔔 Real-time notifications & daily rewards
+
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/Mentora-App)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](Launching Soon....)
 
 </td>
 <td width="50%" valign="top">
@@ -170,27 +192,6 @@ KrushiBandhu is a comprehensive agricultural platform empowering farmers with re
 
 </td>
 <td width="50%" valign="top">
-
-### 🛒 TaazaMandi
-**Farm-to-Consumer Marketplace**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-TaazaMandi directly connects farmers with consumers, eliminating middlemen and ensuring fair prices. The platform provides fresh, organic produce while supporting local agriculture.
-
-- 🚜 Direct farmer-to-consumer chain
-- 🥬 Fresh & organic produce
-- 📦 Real-time order tracking
-- 💳 Secure payment integration
-- ⭐ Quality rating system
-- 📱 Mobile-responsive design
-
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/taazamandi)
-[![Demo](https://img.shields.io/badge/Live_Site-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://taazamandi.vercel.app)
-
-</td>
 </tr>
 </table>
 
@@ -210,7 +211,7 @@ TaazaMandi directly connects farmers with consumers, eliminating middlemen and e
 
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
   
 </div>
 
@@ -224,8 +225,8 @@ TaazaMandi directly connects farmers with consumers, eliminating middlemen and e
   
   - 💼 Building innovative solutions at the intersection of tech and real-world problems
   - 🌱 Exploring new technologies and frameworks
-  - 💬 Ask me about **React, Next.js, ML, Flutter, or Startup Strategy**
-  - 📫 Reach me at: **your.email@example.com**
+  - 💬 Ask me about **React, Next.js, ML, Flutter,Deployment or Startup Strategy**
+  - 📫 Reach me at: **pranavraok18@gmail.com**
   - ⚡ Fun fact: **I thrive under pressure and love turning bugs into features!**
   
   ### 📬 Get in Touch
@@ -233,7 +234,7 @@ TaazaMandi directly connects farmers with consumers, eliminating middlemen and e
   [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavraok.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rao-k-487532312/)
   [![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavvraok18@gmail.com)
   
 </div>
 
