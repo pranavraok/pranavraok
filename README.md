@@ -20,13 +20,13 @@ const pranavRao = {
     role: "Full-Stack Developer & ML Engineer",
     location: "India 🇮🇳",
     education: "Computer Science Engineering",
-    currentFocus: ["AI/ML Integration", "Fintech Platforms","HealthTech Platforms", "AgriTech Solutions"],
+    currentFocus: ["AI/ML Integration", "Fintech Platforms","HealthTech Platforms"],
     mindset: "Building solutions that matter 💡",
     
     ventures: {
         NutriGo: "Smart packaged food scanning & health analysis",
         Mentora: "Smart App to transform student skills to projects"
-        StockPulse: "AI-powered stock analysis platform",
+        Stock_Analysis_Pro: "AI-powered stock analysis platform",
         KrushiBandhu: "Agricultural support ecosystem",
         DermiScan: "AI-powered skin cancer detection application",
     },
@@ -92,6 +92,7 @@ const pranavRao = {
 - 🤖 **AI/ML Integration**: Voice AI, TTS, Model Optimization, ML Automation, MediaPipe
 - 💰 **Fintech Development**: StockPulse Platform, Real-time Analysis, Trading Algorithms
 - 🌾 **AgriTech Solutions**: KrushiBandhu, TaazaMandi, Farm Technology
+- 🍎 **FinTech Solutions**: DermiScan, CancerDetection
 - 💻 **Full-Stack Projects**: NutriGo, Mentora, SaaS Products
 
 <br/>
@@ -132,24 +133,23 @@ NutriGo empowers users to scan foods, analyze ingredients, and receive AI-driven
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-Mentora connects students with industry professionals for personalized mentorship, AI-powered career roadmaps, and project-based skill development. It combines Flutter mobile experience, Supabase backend, Google Gemini AI, and gamified learning mechanics.
+Mentora connects students with industry professionals for personalized mentorship, AI-powered career roadmaps, and project-based skill development.
 
 - 🎯 AI-generated personalized career roadmaps
 - 👨‍💼 Professional mentor matching & real-time chat
 - 📄 ATS resume analysis with improvement suggestions
 - 🎮 Gamified XP system with achievements & leaderboards
 - 🚀 Skill-based project unlocking & completion tracking
-- 🔔 Real-time notifications & daily rewards
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/Mentora-App)
-[![Demo](https://img.shields.io/badge/Launching_Soon-FF5722?style=flat-square&logo=rocket&logoColor=white)](#)
+[![Download](https://img.shields.io/badge/Launching Soon-3DDC84?style=flat-square&logo=android&logoColor=white)]()
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 StockPulse
+### 📈 Stock Analysis Pro
 **AI-Powered Stock Analysis Platform**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -165,30 +165,27 @@ StockPulse combines real-time market data with AI-driven analysis to provide int
 - 📈 Technical indicators & trend analysis
 - 🔔 Smart alerts for opportunities
 
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/stockpulse)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://stockpulse-demo.vercel.app)
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/Stock_Analysis_pro)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌾 KrushiBandhu
-**Agricultural Support Ecosystem**
+🩺 DermiScan AI
+AI-Powered Skin Cancer Detection System
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square
 
-KrushiBandhu is a comprehensive agricultural platform empowering farmers with real-time crop advisory, weather forecasts, market prices, and expert connections to improve farming practices.
+DermiScan AI is an intelligent web-based diagnostic tool that analyzes skin lesion images using deep learning to detect melanoma and provide early cancer risk assessment with instant medical recommendations.
 
-- 🌱 Smart crop recommendations
-- 🌤️ Real-time weather forecasts
-- 💰 Market price tracking
-- 👨‍🌾 Expert consultation forums
-- 📚 Educational resources
-- 🛒 Direct marketplace
+- 🔬 AI-powered melanoma detection
+- 📸 Image upload & camera capture support
+- 📊 Risk probability percentage scoring
+- 🏥 Medical recommendations & suggestions
+- ⚡ Real-time prediction results
 
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/krushibandhu)
-[![Download](https://img.shields.io/badge/Download-3DDC84?style=flat-square&logo=android&logoColor=white)](https://krushibandhu-app.com)
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square-4285F4?style=flat-square&logo=google-chrome&logo
 
 </td>
 </tr>
@@ -210,7 +207,7 @@ KrushiBandhu is a comprehensive agricultural platform empowering farmers with re
 
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
 </div>
 
