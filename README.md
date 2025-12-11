@@ -186,7 +186,6 @@ DermiScan AI is an intelligent web-based diagnostic tool that analyzes skin lesi
 - ⚡ Real-time prediction results
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/DermiScan-AI)
-[![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://dermiscan-ai.streamlit.app)
 
 </td>
 </tr>
