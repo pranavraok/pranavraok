@@ -9,8 +9,6 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=pranavraok&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  
 </div>
 
 <br/>
@@ -90,30 +88,16 @@ const pranavRao = {
 
 <br/>
 
-## 📊 Real-Time GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavraok&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavraok&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=F7B01B&currStreakLabel=667eea"/>
-
-</div>
-
-<div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavraok&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
-  
-</div>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=pranavraok&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
-  
 </div>
 
 <br/>
@@ -170,23 +154,6 @@ const pranavRao = {
 | **KrushiBandhu** | Agricultural support ecosystem | Flutter, Firebase | 🚀 Production |
 | **TaazaMandi** | Farm-to-consumer marketplace | Next.js, Node.js | 🚀 Production |
 | **RUAS Events** | Event management system | React, Firebase | ✅ Live |
-
-<br/>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-  [![Spotify](https://novatorem-pranavraok.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-  
-</div>
 
 <br/>
 
@@ -247,8 +214,6 @@ const pranavRao = {
   ### 💖 Support My Work
   
   If you find my projects helpful or interesting, consider giving them a ⭐!
-  
-  ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
   
