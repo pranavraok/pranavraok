@@ -103,7 +103,7 @@ const pranavRao = {
 <td width="50%" valign="top">
 
 ### 🥗 NutriGo
-** Packaged Food Scanner & Health Score App**
+**Packaged Food Scanner & Health Score App**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -125,10 +125,10 @@ NutriGo empowers users to scan foods, analyze ingredients, and receive AI-driven
 <td width="50%" valign="top">
 
 ### 🏆 Mentora
-** Smart App to transform student skills to projects**
+**Smart App to Transform Student Skills to Projects**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
@@ -142,9 +142,11 @@ Mentora connects students with industry professionals for personalized mentorshi
 - 🔔 Real-time notifications & daily rewards
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/Mentora-App)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](Launching Soon....)
+[![Demo](https://img.shields.io/badge/Launching_Soon-FF5722?style=flat-square&logo=rocket&logoColor=white)](#)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📈 StockPulse
@@ -167,8 +169,6 @@ StockPulse combines real-time market data with AI-driven analysis to provide int
 [![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://stockpulse-demo.vercel.app)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌾 KrushiBandhu
@@ -191,7 +191,6 @@ KrushiBandhu is a comprehensive agricultural platform empowering farmers with re
 [![Download](https://img.shields.io/badge/Download-3DDC84?style=flat-square&logo=android&logoColor=white)](https://krushibandhu-app.com)
 
 </td>
-<td width="50%" valign="top">
 </tr>
 </table>
 
