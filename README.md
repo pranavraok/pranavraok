@@ -120,7 +120,7 @@ NutriGo empowers users to scan foods, analyze ingredients, and receive AI-driven
 - 💾 Supabase-powered data storage
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/nutrigo)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nutrigo-demo.netlify.app)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nutrigo-kappa.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
