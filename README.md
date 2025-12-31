@@ -142,7 +142,7 @@ Mentora connects students with industry professionals for personalized mentorshi
 - 🚀 Skill-based project unlocking & completion tracking
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/Mentora-App)
-[![Download](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](#https://mentora-app-download-guide.vercel.app/)
+[![Download](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://mentora-app-download-guide.vercel.app/)
 
 </td>
 </tr>
