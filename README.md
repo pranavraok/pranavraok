@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavraok.netlify.app/)
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rao-k-487532312/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavraok18@gmail.com)
@@ -24,7 +24,6 @@ const pranavRao = {
     mindset: "Building solutions that matter 💡",
     
     ventures: {
-        NutriGo: "Smart packaged food scanning & health analysis",
         Mentora: "Smart App to transform student skills to projects",
         Stock_Analysis_Pro: "AI-powered stock analysis platform",
         KrushiBandhu: "Agricultural support ecosystem",
@@ -92,7 +91,7 @@ const pranavRao = {
 - 🤖 **AI/ML Integration**: Voice AI, TTS, Model Optimization, ML Automation, MediaPipe
 - 💰 **Fintech Development**: Stock Analysis Pro, Real-time Analysis, Trading Algorithms
 - 🌾 **AgriTech Solutions**: KrushiBandhu, Farm Technology
-- 🩺 **HealthTech Solutions**: DermiScan, NutriGo, Cancer Detection
+- 🩺 **HealthTech Solutions**: DermiScan, Cancer Detection
 - 💻 **Full-Stack Projects**: Mentora, SaaS Products
 
 <br/>
@@ -102,25 +101,6 @@ const pranavRao = {
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🥗 NutriGo
-**Packaged Food Scanner & Health Score App**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
-
-NutriGo empowers users to scan foods, analyze ingredients, and receive AI-driven health scores and warnings. It integrates barcode scanning, Supabase DB, Google Gemini AI, and instant nutrition analytics.
-
-- 📱 Mobile-ready barcode scanning
-- 🍎 AI-calculated health & nutrition scores
-- 📊 Tracking and logging for healthy eating
-- 🔒 Secure backend, robust error handling
-- 💾 Supabase-powered data storage
-
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavraok/nutrigo)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nutrigo-kappa.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -227,7 +207,6 @@ DermiScan AI is an intelligent web-based diagnostic tool that analyzes skin lesi
   
   ### 📬 Get in Touch
   
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavraok.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rao-k-487532312/)
   [![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavraok)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavraok18@gmail.com)
