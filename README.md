@@ -159,20 +159,11 @@ Selected from my more actively developed public repositories, with an emphasis o
 <!-- Third-party SVG services refresh dynamically. GitHub may occasionally cache images. -->
 <div align="center">
   <a href="https://github.com/pranavraok"><img src="https://github-readme-stats.vercel.app/api?username=pranavraok&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9&icon_color=F7B01B" height="175" alt="Pranav's GitHub statistics" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pranavraok&hide_border=true&background=0D1117&ring=764BA2&fire=F7B01B&currStreakLabel=667EEA&sideLabels=C9D1D9&dates=8B949E" height="175" alt="Pranav's contribution streak and totals" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pranavraok&hide_border=true&background=0D1117&ring=764BA2&fire=F7B01B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=667EEA&sideLabels=C9D1D9&dates=8B949E" height="175" alt="Pranav's contribution streak and totals" /></a>
 </div>
 
 <div align="center">
   <a href="https://github.com/pranavraok"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavraok&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9" height="165" alt="Languages used across public repositories" /></a>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <a href="https://github.com/pranavraok?tab=overview"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavraok&bg_color=0D1117&color=C9D1D9&line=667EEA&point=F7B01B&area_color=764BA2&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Pranav's GitHub contribution activity graph" /></a>
-  <p><sub><a href="https://github.com/pranavraok?tab=overview">See my contribution calendar on GitHub</a></sub></p>
 </div>
 
 ---
